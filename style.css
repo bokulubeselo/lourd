@@ -1,0 +1,68 @@
+*{
+	background-color: skyblue;
+	 padding: 5px;
+	 margin: 0px 30px 0px 30px ;
+}
+nav {
+	text-align: center;
+}
+nav a{
+	text-decoration: none;
+	color: red;
+}
+a:hover {
+	color: green;
+}
+.title {
+	text-align: center;
+	font-family: monospace;
+	letter-spacing: 6px;
+
+}
+.sous {
+	text-align: center;
+	letter-spacing: 3px;
+	color: green;
+}
+.head {
+	margin: 0px 0px 60px 0px;
+}
+p a {
+	margin: 0px;
+	padding: 0px
+}
+fieldset {
+	text-align: center;
+	padding: 0px 200px 0px 200px;
+}
+fieldset label {
+	padding: 0px;
+	margin: 10px;
+}
+fieldset input {
+	padding: 0px;
+	margin: 0px;
+}
+fieldset legend {
+	background-color:black ;
+	text-align: center;
+	color: red;
+	margin: 5px;
+	padding: 1px;
+}
+.jpg {
+	display: flex;
+}
+.Etats-Unis {
+	font-family: monospace;
+	color: green;
+}
+.Canada{
+	text-align: right;
+	font-family: monospace;
+	color: green;
+}
+h2 {
+	text-align: center;
+	letter-spacing: 2px;
+}
